@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://proximoalex.weebly.com/](https://proximoalex.weebly.com/)
 
-- 📝 I regularly write articles on [[Cybersecurity](https://proximoalex.weebly.com/cybersecurity.html)](Cybersecurity)
+- 📝 I regularly write articles on [[Cybersecurity](https://proximoalex.weebly.com/cybersecurity.html)]
 
 - 💬 Ask me about **OSINT, Cybersecurity**
 
