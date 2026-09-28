@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Threat Detection**
 
-- 👨‍💻 All of my projects are available at [https://proximoalex.weebly.com/](https://proximoalex.weebly.com/)
+- 👨‍💻 All of my projects are available here at Github or at [https://proximoalex.weebly.com/](https://proximoalex.weebly.com/)
 
 - 📝 I regularly write articles on [[Cybersecurity](https://proximoalex.weebly.com/cybersecurity.html)]
 
