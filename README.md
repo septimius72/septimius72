@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Senior Technical Recruiter Passionate About Cybersecurity</h3>
+<h3 align="center">Senior / Staff level Technical Recruiter Passionate About AI and Cybersecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=septimius72&label=Profile%20views&color=0e75b6&style=flat" alt="septimius72" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [[Cybersecurity](https://proximoalex.weebly.com/cybersecurity.html)]
 
-- 💬 Ask me about **OSINT, Cybersecurity**
+- 💬 Ask me about **OSINT, Cybersecurity**, check out my other site: [ https://sashik.rf.gd/ ]
 
 - 📄 Know about my experiences [https://proximoalex.weebly.com/recruiting.html](https://proximoalex.weebly.com/recruiting.html)
 
