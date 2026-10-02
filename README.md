@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alxhb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alxhb/" height="30" width="40" /></a>
+<a href="https://sashik.rf.gd/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="https://sashik.rf.gd/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
