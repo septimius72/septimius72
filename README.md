@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://proximoalex.weebly.com/recruiting.html](https://proximoalex.weebly.com/recruiting.html)
 
-- ⚡ Fun fact **Speak 6 languages, visited 70 countries**
+- ⚡ Fun fact, **Speak 6 languages, visited 70 countries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
