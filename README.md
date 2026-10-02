@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Senior / Staff level Technical Recruiter Passionate About AI and Cybersecurity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=septimius72&label=Profile%20views&color=0e75b6&style=flat" alt="septimius72" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=septimius72" alt="septimius72" /></a> </p>
-
 - 🔭 I’m currently working on [OSINT]
 
 - 🌱 I’m currently learning **Threat Detection**
