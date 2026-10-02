@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=septimius72" alt="septimius72" /></a> </p>
 
-- 🔭 I’m currently working on [OSINT](https://www.theforage.com/)
+- 🔭 I’m currently working on [OSINT]
 
 - 🌱 I’m currently learning **Threat Detection**
 
