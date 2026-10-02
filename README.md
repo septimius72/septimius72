@@ -1,17 +1,28 @@
-interface DeveloperRecruiter {
-  name: string;
-  location: string;
-  role: string;
-  languages: string[];
-  taSpecialties: string[];
-  status: string;
-}
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h3 align="center">Senior / Staff level Technical Recruiter Passionate About AI and Cybersecurity</h3>
 
-const alex: DeveloperRecruiter = {
-  name: "Alexander Becz",
-  location: "Riverton, UT",
-  role: "Sr. Technical Recruiter & Full-Stack TA Techie",
-  languages: ["TypeScript", "JavaScript", "React", "Tailwind CSS", "Python", "HTML/CSS"],
-  taSpecialties: ["Ruby on Rails Backend", "Threat Hunters", "SOC Analysts", "AI/ML Engineers"],
-  status: "⚡ Building high-impact tech teams & engineering modern web apps"
-};
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=septimius72&label=Profile%20views&color=0e75b6&style=flat" alt="septimius72" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=septimius72" alt="septimius72" /></a> </p>
+
+- 🔭 I’m currently working on [OSINT]
+
+- 🌱 I’m currently learning **Threat Detection**
+
+- 👨‍💻 All of my projects are available here at Github or at [https://proximoalex.weebly.com/](https://proximoalex.weebly.com/)
+
+- 📝 I regularly write articles on [[Cybersecurity](https://proximoalex.weebly.com/cybersecurity.html)]
+
+- 💬 Ask me about **OSINT, Cybersecurity**, check out my other site: [ https://sashik.rf.gd/ ]
+
+- 📄 Know about my experiences [https://proximoalex.weebly.com/recruiting.html](https://proximoalex.weebly.com/recruiting.html)
+
+- ⚡ Fun fact: **I speak 6 languages, I have visited 75 countries of the world**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/alxhb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alxhb/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
